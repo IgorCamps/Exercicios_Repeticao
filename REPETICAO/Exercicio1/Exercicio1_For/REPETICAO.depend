@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666545256 source:d:\repeticao\main.c
+	<stdio.h>
+	<stdlib.h>
+
